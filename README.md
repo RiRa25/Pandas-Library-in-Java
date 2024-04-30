@@ -1,6 +1,8 @@
 # RiRa25-TechTribe-24-PandasLibraryinJava
 
-There are two Java Files
+# -"Developing a Pandas Library in Java for Data Manipulation and Analysis"
+
+There are two Java Files:
 
 Path of Implemented Java file on GitHub : DataFrame -> src -> Pandas -> DataFrame.java
 
@@ -16,9 +18,7 @@ Video Link: https://drive.google.com/file/d/14mhADGuM3zFoIYLIVzyW4ji9yQbVPAPh/vi
 
 Drive Link: https://drive.google.com/drive/folders/1Ix1RRPqXSxsXQb-TE0vpQPoTAEkEM_DV?usp=sharing
 
-"Developing a Pandas Library in Java for Data Manipulation and Analysis"
-
-Description:
+# Description:
 
 This project aims to create a DataFrame library in Java, offering functionalities similar to Python's Pandas library. The Java DataFrame will allow users to perform key data manipulation tasks such as sorting, filtering, adding/removing columns and rows, reading and generating CSV files, and more.
 
@@ -26,7 +26,7 @@ Python's Pandas DataFrame is a widely used data structure that allows users to w
 
 By developing a DataFrame library for Java, this project will provide Java developers with a powerful tool for data manipulation and analysis. This will enable Java developers to conduct data science tasks without needing to switch to other programming languages.
 
-Data Structures used:
+#-Data Structures used:
 
 1.	List of Maps (`List<Map<String, Object>>`): The primary data structure for storing rows of the DataFrame. Each map represents a single row, with keys as column names and values as data.
   
