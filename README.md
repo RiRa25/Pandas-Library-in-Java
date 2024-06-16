@@ -1,4 +1,4 @@
-# RiRa25-TechTribe-24-PandasLibraryinJava
+# Pandas Library in Java
 
 # "Developing a Pandas Library in Java for Data Manipulation and Analysis"
 
